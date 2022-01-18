@@ -22,6 +22,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # Iron Stuff
 IRON_BUILD_TYPE := OFFICIAL
+EXTRA_UDFPS_ANIMATIONS := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := iron_raphael
